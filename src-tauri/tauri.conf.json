@@ -1,12 +1,12 @@
 {
   "build": {
-    "devPath": "https://dev-fixedasset-v2.tagsamurai.com/",
-    "distDir": "https://dev-fixedasset-v2.tagsamurai.com/dist",
+    "devPath": "https://staging-fixedasset.tagsamurai.com",
+    "distDir": "https://staging-fixedasset.tagsamurai.com",
     "withGlobalTauri": true
   },
   "package": {
     "productName": "TAG Samurai",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "tauri": {
     "allowlist": {
